@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faiz4work
 - 👀 I’m interested in python, flask, django, web scraping and ReactJs
-- 🌱 I’m currently Flask
-- 💞️ I’m looking to collaborate on flask projects
+- 🌱 I’m currently working with Flask, Django and some ML and A.I things.
+- 💞️ I’m looking for Python Job and some contribution on libraries.
 - 📫 you can reach me through email; faizahmed11234@gmail.com
 
 <!---
